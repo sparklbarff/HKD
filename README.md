@@ -1,9 +1,3 @@
-HKD - Accidental Haiku Detector
-A Python script that finds accidental haikus in public-domain texts from Project Gutenberg.
-Installation
-pip install -r requirements.txt
-Usage
-python src/HKDv1.py
 Project Structure
 HKD/
 ├── .github/
