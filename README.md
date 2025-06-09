@@ -1,8 +1,3 @@
-[![CI](https://github.com/sparklbarff/HKD/actions/workflows/python.yml/badge.svg)](https://github.com/sparklbarff/HKD/actions)
-[![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/sparklbarff/your-gist-id/raw/coverage-badge.json)](https://github.com/sparklbarff/HKD/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-
 Project Structure
 HKD/
 ├── .github/
